@@ -6,16 +6,27 @@
 **Instructions:** Use the word bank to match the vocabulary words with the appropriate number in the above code segment. 
 
 1.Iteration
+
 2.Casting
+
 3.Boolean Operator
+
 4.Selection
+
 5.Comparison Operator
+
 6.Annotation
+
 7.Assignment Operator
+
 8.List
+
 9.Arithmetic Operator
+
 10.Variable
+
 11.String
+
 12.String Concation
 
 **Word Bank**
